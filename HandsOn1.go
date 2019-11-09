@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-var z int
+//var z int
 
 func main() {
 
